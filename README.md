@@ -13,6 +13,25 @@ and its predecessor, the Sage Abuse Committee, systematically refused to protect
 To what extent this crisis is based on general phenomena in toxic open source communities such as entitlement, jealousy, and narcissism, 
 and to what extent it is based on the toxic subculture of prestige in pure mathematics is another question, but not a very important one.
 
+## Sage Abuse Committee's weaponized inaction
+
+## Sage Abuse Committee's abuse of administrative power
+
+and refusal to justify the basis of GitHub privilege changes
+
+
+## Sage Abuse Committee manipulated the 2024 Sage CoCC elections
+
+The Sage Abuse Committee inappropriately removed me from consideration for election for the CoCC, thus eliminating abuse victims' representation from the committee.
+
+## Sage Code of Conduct Committee's weaponized inaction and uneven enforcement
+
+## Sage Code of Conduct Committee's defamation of abuse victims
+
+## Sage Code of Conduct Committee's denunciation of maintainer actions and leadership as misconduct
+
+
+
 
 ## Files included in the repository
 - Documentation of the email exchanges with the Sage Code of Conduct Committee (2024)
