@@ -8,6 +8,8 @@ On 2024-10-04, without any consultation with the community and in violation of o
 
 I am no longer able to post in any of the project's mailing lists, participate in the project's GitHub; and my contributions to the project have been erased from public view: https://github.com/sagemath/sage/graphs/contributors
 
+The suspension was implemented and announced within hours of my calling out the CoCC for its severe misconduct and my call for accountability of the committee (https://groups.google.com/g/sage-devel/c/F9imWbwjPhE); the CoCC has not responded to my message, nor has it given any public justification for its actions.
+
 This is the culmination of a severe crisis of the Sage community, in which the CoCC -- appointed by election only in early spring 2024 -- 
 and its predecessor, the Sage Abuse Committee, have systematically refused to protect me from the persistent abuse by other developers, and instead took to a campaign of defamation against me. At the core of this defamation campaign is a false neutrality that equates abuse with calling out abuse. Not only has the CoCC systematically protected the abusers in the community: the methods of the committee have become indistinguishable from those of the abusers.
 
