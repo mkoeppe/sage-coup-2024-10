@@ -11,11 +11,11 @@ I am no longer able to post in any of the project's mailing lists, participate i
 The suspension was implemented and announced within hours of my calling out the CoCC for its severe misconduct and my call for accountability of the committee (https://groups.google.com/g/sage-devel/c/F9imWbwjPhE); the CoCC has not responded to my message, nor has it given any public justification for its actions.
 
 This is the culmination of a severe crisis of the Sage community, in which the CoCC -- appointed by election only in early spring 2024 -- 
-and its predecessor, the Sage Abuse Committee, have systematically refused to protect me from the persistent abuse by other developers, and instead took to a campaign of defamation against me. At the core of this defamation campaign is a false neutrality that equates abuse with calling out abuse. Not only has the CoCC systematically protected the abusers in the community: the methods of the committee have become indistinguishable from those of the abusers.
+and its predecessor, the Sage Abuse Committee, have systematically refused to protect me from the persistent abuse by other developers, and instead took to a campaign of defamation against me. At the core of this defamation campaign is a false neutrality that equates abuse with calling out abuse, refuses to distinguish between real harm and narcissistic injury, and demands that victims of abuse are nice to their abusers. Not only has the CoCC systematically protected the abusers in the community: the methods of the committee have become indistinguishable from those of the abusers, e.g., gaslighting and playing the victim. The climate created by the committees by their actions -- and weaponized inaction -- has already encouraged other community members to openly display hostility and disrespect.
 
 To what extent this crisis is based on general phenomena in toxic open source communities such as entitlement, jealousy, and narcissism, 
 and to what extent it is based on the toxic subculture of prestige in pure mathematics is another question, but not a very important one.
-Fundamentally, the crisis of the community is one of disrespect. 
+Fundamentally, the crisis of the community is one driven by disrespect. 
 
 **I am calling on the Sage community to:**
 - remove the current Sage CoCC from office and reprimand its members for their severe misconduct;
@@ -46,7 +46,11 @@ TBD
 
 ## Sage Code of Conduct Committee's defamation of abuse victims
 
-TBD
+The Sage CoCC plainly denies community members' fundamental right to call out abuse and other misconduct,
+on the basis of the CoC guideline "Be friendly."
+
+
+
 
 ## Sage Code of Conduct Committee's denunciation of maintainer actions and of leadership as "misconduct"
 
