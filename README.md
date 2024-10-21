@@ -23,6 +23,8 @@ Fundamentally, the crisis of the community is one driven by disrespect.
 - engage in steps that affirm the principles of a healthy open source community and of good governance;
 - appoint a new CoCC that operates on these well understood principles.
 
+Meanwhile, my work on Sage continues: I have created a fork https://github.com/passagemath/passagemath, which is dedicated to developing pip-installable packages, a pyodide port for serverless deployment with Javascript, and a native Windows port.
+
 
 ## Sage Abuse Committee's weaponized inaction
 
