@@ -178,4 +178,4 @@ TBD
 
 ## Files included in the repository
 - [Documentation of the email exchanges with the Sage Code of Conduct Committee](emails-sage-conduct) (2024)
-- Documentation of the email exchanges with the Sage Abuse Committee (2023-24)  (TBD)
+- [Documentation of the email exchanges with the Sage Abuse Committee](emails-sage-abuse) (2023-24)
