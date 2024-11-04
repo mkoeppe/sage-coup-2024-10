@@ -2,7 +2,7 @@
 # (draft, TBD)
 
 I am the principal de-facto maintainer of the SageMath project. I have been leading the project
-since 2020: **technologically** (as the overall top code contributor, the principal maintainer of the Sage distribution, and as the designer and implementor of the modularization project, a renewal of Sage as a first-class member of the Python ecosystem); **organizationally** (e.g., as prinicipal maintainer of the continuous integration systems); and **morally** (e.g. with my 2024 essay series "(Re-)building an inclusive SageMath community", https://groups.google.com/g/sage-devel/c/bO6ZeK6MNSo/m/Pj0Hoaz2AwAJ).
+since 2020: **technologically** (as the [overall top code contributor](https://github.com/passagemath/passagemath/graphs/contributors), the principal maintainer of the Sage distribution, and as the designer and implementor of the modularization project, a renewal of Sage as a first-class member of the Python ecosystem); **organizationally** (e.g., as principal maintainer of the continuous integration systems, by leading the migration from Trac to GitHub, and leading the creation of release notes); and **morally** (e.g. with my 2024 essay series "(Re-)building an inclusive SageMath community", https://groups.google.com/g/sage-devel/c/bO6ZeK6MNSo/m/Pj0Hoaz2AwAJ).
 
 On 2024-10-04, without any consultation with the community and in violation of our project's procedures, **the Sage Code of Conduct Committee (CoCC) abruptly suspended me from the Sage project**, for the duration of "at least one year": https://groups.google.com/g/sage-devel/c/wkYfMA9ivYA 
 
@@ -24,6 +24,10 @@ Fundamentally, the crisis of the community is one driven by disrespect.
 - appoint a new CoCC that operates on these well understood principles.
 
 Meanwhile, my work on Sage continues: I have created a fork https://github.com/passagemath/passagemath, which is dedicated to developing pip-installable packages, a pyodide port for serverless deployment with Javascript, and a native Windows port.
+
+## The suspension notice, commented
+
+TBD
 
 
 ## Sage Abuse Committee's weaponized inaction
@@ -60,5 +64,5 @@ TBD
 
 
 ## Files included in the repository
-- Documentation of the email exchanges with the Sage Code of Conduct Committee (2024)
+- [Documentation of the email exchanges with the Sage Code of Conduct Committee](emails-sage-conduct) (2024)
 - Documentation of the email exchanges with the Sage Abuse Committee (2023-24)  (TBD)
