@@ -80,7 +80,8 @@ M. Rubey's public displays of hostility against me are wildly inappropriate, and
 > received as the Code of Conduct Committee, we believe that you are often at the center of this toxicity.
 
 That's just an insult from a corrupt and hostile committee that refuses to make a distinction between perpetrators and targets of abuse. As I have documented, I have been the **target** of abuse, displays of disrespect, and hostility.
-The committee also willfully ignores that through my intense work on Sage over the past 4 years, I am at the center of all of Sage development.
+
+The committee also willfully ignores that through my intense work on Sage over the past 4 years, I am at the center of all of Sage development. It is to be expected that the committee is receiving various denunciations of me from others because of entitlement, jealousy, and narcissism. The committee would be tasked to study the basics of Human Behavior so that it can put such denunciations in an appropriate context.
 
 > In addition, many of the responses to the survey mention your conflict with Dima as contributing to an
 > unpleasant environment on sage-devel.
@@ -97,10 +98,14 @@ The committee has not taken any of the necessary steps to address the persistent
 
 > However,
 > we also believe that you should apologize for publicly describing him as an abuser, which is a term that
-> insinuates much worse than the verbal abuse he has subjected you to. How would you de-escalate the
-> conflict between the two of you?
+> insinuates much worse than the verbal abuse he has subjected you to.
 
 **The CoCC is persistently equating abusive conduct and calling out abusive conduct. This is abusive conduct by the committee.**
+
+> How would you de-escalate the
+> conflict between the two of you?
+
+As I have explained many times to the committee, calling it a "conflict" is a hostile and abusive mischaracterization that denies that abuse is happening.
 
 > Similarly, we imagine that Martin would appreciate an apology for how you interacted with him. If that is not
 > something you are willing to do, how do you propose making him feel more welcome in the Sage
@@ -110,8 +115,16 @@ This is gaslighting.
 
 > We also want to be clear about the kinds of behaviors that we have observed from you that are problematic.
 > You often behave dismissively toward other developers, trying to wave away comments that you disagree
-> with. You have displayed an unwillingness to acknowledge the outcome of conflict resolution processes, for
-> example trying to dismiss votes in sage-devel when you disagreed with the outcome. You have repeatedly
+> with.
+
+This is a hostile mischaracterization from a committee that plainly denies the disrespect that abusers have displayed toward me in public. 
+
+> You have displayed an unwillingness to acknowledge the outcome of conflict resolution processes, for
+> example trying to dismiss votes in sage-devel when you disagreed with the outcome.
+
+This is a hostile mischaracterization.
+
+> You have repeatedly
 > claimed a leadership role in the Sage project. While leading by positive example is welcome,
 
 I'll note that here again CoCC assumes that it has the authority to declare what is welcome.
