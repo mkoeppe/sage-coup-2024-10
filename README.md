@@ -195,6 +195,13 @@ by abusing and weaponizing the CoC guideline "Be friendly."
 TBD
 
 
+## Other Practical Negative Impacts of the Sage Code of Conduct Committee's Illegitimate Actions
+
+* I lost control of all repositories in the SageMath organization -- including three key projects for which I stepped up as a maintainer only in Mar 2024 https://groups.google.com/g/sage-devel/c/fy1ei6bLtmc/m/hf6iiJdHCgAJ, which are now again unmaintained; nobody has been notified of this fact.
+
+
+
+
 ## Files included in the repository
 - [Documentation of the email exchanges with the Sage Code of Conduct Committee](emails-sage-conduct) (2024)
 - [Documentation of the email exchanges with the Sage Abuse Committee](emails-sage-abuse) (2023-24)
