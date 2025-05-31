@@ -187,7 +187,7 @@ TBD
 The Sage CoCC plainly denies community members' fundamental right to call out abuse and other misconduct,
 by abusing and weaponizing the CoC guideline "Be friendly."
 
-
+By denying that abuse is happening (or insisting that "only verbal abuse" but not "abuse-abuse" is happening, or similar minimizations), the Sage CoCC is defaming victims of abuse as "participants in a hostile conflict".
 
 
 ## Sage Code of Conduct Committee's denunciation of maintainer actions and of leadership as "misconduct"
