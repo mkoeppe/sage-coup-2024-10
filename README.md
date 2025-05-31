@@ -26,7 +26,7 @@ Fundamentally, the crisis of the community is one driven by disrespect.
 - engage in steps that affirm the principles of a healthy open source community and of good governance;
 - appoint a new CoCC that operates on these well understood principles.
 
-Meanwhile, my work on Sage continues: I have created a fork https://github.com/passagemath/passagemath, which is dedicated to developing pip-installable packages, a Pyodide port for serverless deployment with Javascript, and a native Windows port.
+Meanwhile, my work on Sage continues: In response to the illegitimate exclusion, I have created a fork https://github.com/passagemath/passagemath, which is dedicated to developing pip-installable packages, a Pyodide port for serverless deployment with Javascript, and a native Windows port --- and to re-building a professional community from scratch.
 
 ## The suspension notice, commented
 
@@ -66,12 +66,16 @@ A few days prior, the CoCC sent me an [email titled Addressing causes of concern
 >
 > In April, we shared with you that several Sage developers had left the project because of your behavior.
 
-An unsubstantiated claim already then. The CoCC has no authority to act on denunciations.
+An unsubstantiated claim already then; and, more importantly, there is no evidence whatsoever of any misconduct on my side.
+
+The CoCC has no authority to act on mere denunciations from disgruntled project members.
 
 > Since then, more developers have told us privately that they are considering leaving, and Martin Rubey has
 > expressed this sentiment both publicly and privately.
 
-M. Rubey's public displays of hostility against me are wildly inappropriate, and it was invited and normalized by the action and inaction of the CoCC.
+M. Rubey's public displays of hostility against me are wildly inappropriate.
+
+It was invited and normalized by the actions (and inaction) of the CoCC in 2024.
 
 > Some developers have told us that they are no longer
 > encouraging new people to join the project. In all of these cases, your behavior is a primary reason.
@@ -111,7 +115,11 @@ As I have explained many times to the committee, calling it a "conflict" is a ho
 > something you are willing to do, how do you propose making him feel more welcome in the Sage
 > community?
 
-This is gaslighting.
+This is continued gaslighting.
+
+I have previously reported multiple public displays of disrespect by Martin Rubey to the committee.
+The committee has reacted with plain denial and gaslighting, and is now accusing me of being the perpetrator.
+There is no basis for this accusation.
 
 > We also want to be clear about the kinds of behaviors that we have observed from you that are problematic.
 > You often behave dismissively toward other developers, trying to wave away comments that you disagree
@@ -132,6 +140,15 @@ But CoCC is not elected as a leadership committee.
 
 > claiming
 > authority over others’ behavior without any mandate from the community alienates other developers.
+
+"Without any mandate" --- here the CoCC is using a standard technique of abusers, namely accusing their victims of something that, in fact, the abusers are doing or planning to do.
+
+I have a mandate from the community. I am not, contrary to the CoCC's repeated gaslighting, a "mere developer".
+By the system of informal governance of Sage, I was appointed to be a member of the "Core" Team in 2022,
+and as an owner of the Sage organization, hence of the leadership of the Sage project.
+
+On the other hand, the CoCC is assuming authorities that wildly exceed their role defined in our Code of Conduct.
+
 > Community members are frustrated by the condescending language that we have seen from you on
 > numerous occasions.
 
@@ -166,7 +183,7 @@ TBD
 ## Sage Code of Conduct Committee's defamation of abuse victims
 
 The Sage CoCC plainly denies community members' fundamental right to call out abuse and other misconduct,
-on the basis of the CoC guideline "Be friendly."
+by abusing and weaponizing the CoC guideline "Be friendly."
 
 
 
